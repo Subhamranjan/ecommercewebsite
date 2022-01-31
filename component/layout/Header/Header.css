@@ -1,0 +1,118 @@
+.speedDial {
+  position: fixed; 
+  right: 3vmax;
+  top: 2vmax;
+  background-color: transparent;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%; 
+}  
+
+ /* *{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  max-height: 50px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.6s;
+  padding: 40px 100px;
+  z-index: 100000;
+}
+
+nav .logo{
+  position: relative;
+  font-weight: 700;
+  color: #000;
+  text-decoration: none;
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: 0.6s;
+  background: -webkit-linear-gradient(#eee, rgb(69, 57, 248));
+  -webkit-background-clip: text;
+}
+
+nav .logo span {
+  font-size: 3.5rem;
+}
+
+nav ul{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul li{
+  position: relative;
+  list-style: none;
+}
+
+nav ul li a{
+  position: relative;
+  margin: 0 15px;
+  text-decoration: none;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: 500px;
+  transition: 0.6s;
+}
+ 
+.input{
+  position: relative;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+} 
+.search{
+  border-radius: 50px;
+  height: 45px;
+  width : 200px;
+  border-style: none;
+}
+
+@media screen and (min-width: 600px ) {
+  body {
+      min-height: 160vh;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  body {
+      min-height: 100vh;
+  }
+}
+
+@media screen and (min-width:1366){
+  body {
+      min-height: 170vh;
+  }
+}
+
+
+@media screen and (max-width: 1509px) {
+  body {
+      min-height: 100vh;
+  }
+}
+
+@media screen and (max-width: 393){
+  body {
+      min-height: 60vh;
+  }
+}  */
